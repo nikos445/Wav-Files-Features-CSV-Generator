@@ -1,6 +1,5 @@
 import librosa
-import librosa.display 
-import pandas as pd
+import librosa.display  
 import numpy as np
 import os, csv
 
